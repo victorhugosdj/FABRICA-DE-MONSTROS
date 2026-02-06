@@ -35,3 +35,5 @@ Cada membro da equipe possui uma pasta própria dentro de `EQUIPE`.
 
 ---
 *"Centralizando informações para empoderar a equipe."*
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
