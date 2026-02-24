@@ -26,7 +26,9 @@ TailwindCSS: Estilização.
 Se você copiar a pasta do projeto para outro computador (sem a pasta node_modules), siga estes passos:
 
 1 - Instale o Node.js: Certifique-se de que o outro PC tem o Node.js instalado (recomendo a versão 20 ou superior).
+
 2 - Abra o terminal na pasta do projeto.
+
 3 - Rode o comando mágico:
 
 npm install
