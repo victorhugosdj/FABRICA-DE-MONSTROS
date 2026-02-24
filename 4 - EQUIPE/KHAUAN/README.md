@@ -1,6 +1,6 @@
-# Espaço Pessoal: Kauã
+# Espaço Pessoal: Khauan
 
-Este diretório é de uso exclusivo e responsabilidade de **Kauã**.
+Este diretório é de uso exclusivo e responsabilidade de **Khauan**.
 
 **Conteúdo:**
 - `/DAILIES`: Relatórios diários de atividades.
