@@ -29,6 +29,8 @@ Cada membro da equipe possui uma pasta própria dentro de `4 - EQUIPE`.
 - **Planejamento e Reuniões:** A pasta `2 - GESTÃO` contém atas, roadmaps e avaliações de retrospectiva.
 
 ## 5. Primeiros Passos
+- [ ] [Onboarding Estrutura da Fábrica de Monstros:](https://www.figma.com/design/t1tZMUrfDFkDvyygsWaMnp/zello---apresentacoes-do-time?node-id=1-2&t=Qo6AuFqkYpFaLSql-1)
+      Solicitar senha com colaborador da equipe.
 - [ ] Ler o [MAPA_DE_CONHECIMENTO.md](MAPA_DE_CONHECIMENTO.md) para ter uma visão geral.
 - [ ] Criar sua pasta pessoal em `4 - EQUIPE`.
 - [ ] Ler o `MODELO DE DAILY.md` e enviar sua primeira daily.
