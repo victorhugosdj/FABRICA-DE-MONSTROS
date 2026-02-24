@@ -12,12 +12,17 @@ package.json
  já lista tudo o que o sistema precisa:
 
 Next.js: Framework principal.
+
 Prisma: Gerenciador do banco de dados.
+
 React: Biblioteca de interface.
+
 LocalTunnel: Ferramenta de túnel.
+
 TailwindCSS: Estilização.
 
 🚀 Como instalar em outro PC:
+
 Se você copiar a pasta do projeto para outro computador (sem a pasta node_modules), siga estes passos:
 
 1 - Instale o Node.js: Certifique-se de que o outro PC tem o Node.js instalado (recomendo a versão 20 ou superior).
