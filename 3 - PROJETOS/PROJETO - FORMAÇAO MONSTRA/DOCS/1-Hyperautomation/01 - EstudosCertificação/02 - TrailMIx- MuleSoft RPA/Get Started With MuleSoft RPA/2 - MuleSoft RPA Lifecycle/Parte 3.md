@@ -1,32 +1,27 @@
-Esse tópico mostra como revisar uma avaliação de processo RPA e, em seguida, aprovar formalmente o processo para desenvolvimento dentro do MuleSoft RPA Manager.​
+Essa unidade explica como usar a visão de **Análise Financeira** do MuleSoft RPA Manager para estimar custos, economias e o ponto de equilíbrio (ROI) de um processo RPA candidato.​
 
-## Objetivo do tópico
+## Objetivos e visão geral
 
-- Ensinar a revisar e editar um processo RPA candidato ainda na fase de Avaliação.​
+- Objetivos: identificar as seções da Análise Financeira e entender o conceito de ponto de equilíbrio do projeto.​
     
-- Explicar como aprovar o processo e enviá‑lo para quem vai gerenciar o desenvolvimento (PM ou CoE).
-
-## Revisão e colaboração na avaliação
-
-- Depois de salvo, o processo aparece em uma lista com todos os candidatos avaliados da organização, visível para quem tem permissão de abrir/aprovar.​
-    
-- Outros usuários autorizados podem revisar sua avaliação, dar feedback e até editar o candidato enquanto ele ainda não foi aprovado, o que permite colaboração na etapa de Avaliação.​
+- A visão de Análise Financeira existe para todos os projetos (em desenvolvimento ou produção) e gera uma previsão financeira a partir dos valores que você informa.​
     
 
-## Aprovação do processo
+## Seção “Análise Financeira: Lançamentos de Custos”
 
-- Para aprovar, usa‑se o botão de aprovação (ícone de nuvem com seta) na lista de processos, que abre a janela “Approve a project”.
+- Permite registrar custos de curto e longo prazo e a frequência de execução do processo, formando a base para todas as contas posteriores.​
     
-- Nessa janela você escolhe para quem enviar o projeto (gerente de projeto ou Centro de Excelência), podendo renomear o processo e escrever uma descrição geral que ajude a equipe de desenvolvimento.
+- Campos principais: Meses (período analisado), Investimento (valor total e depreciação para chegar ao custo mensal), Previsão de execuções mensais e Custos operacionais mensais.
 
-## Destino e gerenciamento do projeto
+## Seção “Avaliação de custos”
 
-- O processo aprovado pode ser direcionado a um gerente de projeto específico ou a um Centro de Excelência, onde qualquer membro pode “assumir” o projeto e se tornar o project manager.
-- 
-- A escolha de quem gerencia o desenvolvimento é tratada como a decisão mais crítica na hora da aprovação.​
-
-## Status após aprovação e possíveis rejeições
-
-- Ao confirmar (OK), o status muda para Approved e a avaliação fica somente leitura, inclusive para o dono do processo e o próprio gerente de projeto.​
+- Usa os lançamentos de custos para calcular e plotar: custos fixos mensais (linha verde), custos totais mensais (linha azul), economia mensal (linha preta) e lucro líquido mensal (linha laranja)​
     
-- Mesmo aprovado, o gerente de projeto ainda pode rejeitar o processo por motivos técnicos ou falta de recursos, então o dono do processo deve acompanhar o andamento e eventuais problemas durante o desenvolvimento.​
+- Combina custos reais de bots já em produção, execuções esperadas e custo do processo manual para exibir a economia e o lucro líquido mês a mês.​
+    
+
+## Seção “Análise do Ponto de Equilíbrio”
+
+- Calcula custos totais acumulados e economias acumuladas ao longo do tempo, refletindo o histórico completo do projeto.​
+    
+- O ponto de equilíbrio é o momento em que a curva de economia acumulada ultrapassa a curva de custos totais, indicando quando o RPA passa a gerar mais economia do que custo.​
