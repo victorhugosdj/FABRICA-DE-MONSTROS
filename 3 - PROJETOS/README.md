@@ -10,3 +10,11 @@ Cada projeto (ex: `PROJETO - FORMAÇAO MONSTRA`) possui:
 
 **Como contribuir:**
 Mantenha a documentação técnica atualizada junto com o código.
+
+**Lembrete**
+- `git pull`
+- `git status`
+- `git add .`
+- `git commit -m "daily today"`
+- `git push`
+- `git status`
