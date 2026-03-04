@@ -38,10 +38,10 @@ Nossa trilha de evolução para novos integrantes é dividida em três níveis:
 
 O repositório está organizado para facilitar a navegação e a transparência:
 
-**`📂 1 - GERAL INFORMATIVO E ANEXOS`**: Biblioteca de recursos administrativos e templates, como o modelo de Daily.
-**`📂 2 - GESTÃO`**: Atas de reuniões, planejamentos semanais, roadmaps e retrospectivas.
-**`📂 3 - PROJETOS`**: Documentação técnica e tarefas de iniciativas como "Formação Monstra" e "RH Zello".
-**`📂 4 - EQUIPE`**: Espaço individual de cada colaborador para anotações pessoais e histórico de Dailies.
+- **`📂 1 - GERAL INFORMATIVO E ANEXOS`**: Biblioteca de recursos administrativos e templates, como o modelo de Daily.
+- **`📂 2 - GESTÃO`**: Atas de reuniões, planejamentos semanais, roadmaps e retrospectivas.
+- **`📂 3 - PROJETOS`**: Documentação técnica e tarefas de iniciativas como "Formação Monstra" e "RH Zello".
+- **`📂 4 - EQUIPE`**: Espaço individual de cada colaborador para anotações pessoais e histórico de Dailies.
 
 ---
 
