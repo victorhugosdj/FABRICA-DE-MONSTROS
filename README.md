@@ -1,56 +1,58 @@
-Criar uma branch (ramo) é como criar uma linha do tempo alternativa para o seu projeto: você pode testar coisas novas sem estragar o que já está funcionando na linha principal.
+# 👹 Fábrica de Monstros | Zello
 
-Aqui estão os comandos principais:
+Bem-vindo ao repositório oficial da **Fábrica de Monstros**, um time diferenciado da Zello focado em inovação, excelência e transformação de ideias em soluções de alto impacto.
 
-### 1. Criar e já entrar na branch (O mais usado)
+## 🚀 Quem Somos
 
-Este comando cria a branch e já muda o seu terminal para dentro dela.
+Somos uma equipe que se destaca pela liberdade criativa e pelo compromisso com a qualidade. Acreditamos que um ambiente colaborativo e descontraído é o motor para superar desafios e evoluir constantemente.
 
-```bash
-git checkout -b nome-da-sua-branch
+## 🎯 Nossa Missão
+- **Capacitação:** Integrar novos talentos ao nosso ecossistema de inovação.
+- **Eficiência:** Maximizar a qualidade das entregas com foco em melhoria contínua.
+- **Cultura:** Fomentar um ambiente de autonomia e criatividade.
+- **Agilidade:** Resolver problemas de forma inovadora, agregando valor real ao negócio.
+- **Referência:** Ser um modelo de excelência no mercado através dos nossos resultados e profissionais.
 
-```
+## 💎 Pilares e Valores
 
-*Dica: Em versões mais recentes do Git, você também pode usar `git switch -c nome-da-branch`.*
+Nossa cultura é sustentada por oito valores fundamentais:
+
+- **Comprometimento:** Entregamos o nosso melhor em cada projeto.
+- **Horizontalidade:** Um ambiente sem barreiras onde todos têm voz.
+- **Transparência:** Fluxo aberto de comunicação e feedbacks.
+- **Crescimento:** Foco no desenvolvimento contínuo de cada membro.
+- **Flexibilidade:** Resiliência e criatividade frente às mudanças.
+- **Segurança:** Ambiente confiável e acolhedor.
+- **Agilidade:** Resolução rápida de desafios sem perda de qualidade.
+- **União:** Trabalho em conjunto para atingir objetivos comuns.
+
+## 📈 Estrutura de Crescimento
+
+Nossa trilha de evolução para novos integrantes é dividida em três níveis:
+
+1. Nível **Estudo e Cultura:** Imersão intensa em tecnologias e na cultura do time durante o primeiro mês, com foco em certificações.
+2. Nível **Comprometimento e Entregas:** Aplicação prática com foco em realizar pelo menos 10 entregas relevantes.
+3. Nível **Formação do "Monstro":** O integrante torna-se um "Embaixador" em um nicho específico, assumindo um papel estratégico e disseminando conhecimento.
+
+## 📂 Estrutura do Repositório
+
+O repositório está organizado para facilitar a navegação e a transparência:
+
+- **`📂 1 - GERAL INFORMATIVO E ANEXOS`**: Biblioteca de recursos administrativos e templates, como o modelo de Daily.
+- **`📂 2 - GESTÃO`**: Atas de reuniões, planejamentos semanais, roadmaps e retrospectivas.
+- **`📂 3 - PROJETOS`**: Documentação técnica e tarefas de iniciativas como "Formação Monstra" e "RH Zello".
+- **`📂 4 - EQUIPE`**: Espaço individual de cada colaborador para anotações pessoais e histórico de Dailies.
 
 ---
 
-### 2. O modo "passo a passo"
+🤝 Como Contribuir
+Para manter a excelência e a agilidade da Fábrica de Monstros, seguimos um processo padronizado de colaboração:
 
-Se preferir fazer uma coisa de cada vez:
+1. Siga a Filosofia de Trabalho: Priorize a transparência (documente tudo), a organização (mantenha arquivos nas pastas corretas) e a colaboração ativa.
+2. Organize seu Espaço: Se for um novo integrante, crie sua pasta pessoal em `4 - EQUIPE` com as subpastas `DAILIES` e `ANOTACOES PESSOAIS`.
+3. Mantenha a Cadência: Utilize o `MODELO DE DAILY.md` para registrar seu progresso diário na sua pasta pessoal.
+4. Atualize o Índice: Ao criar novos projetos ou pastas raiz, lembre-se de atualizar o `MAPA_DE_CONHECIMENTO.md` para que todos possam encontrar a informação.
+5. Padronize Documentos: Sempre que precisar criar um novo documento administrativo ou template, utilize as bases disponíveis em `1 - GERAL INFORMATIVO E ANEXOS`.
+6. Submissão de Código/Docs: Utilize o `pull_request_template.md` definido para garantir que a entrega está alinhada com os pilares de agilidade e qualidade.
 
-1. **Cria a branch:**
-```bash
-git branch nome-da-sua-branch
-
-```
-
-
-2. **Entra nela:**
-```bash
-git checkout nome-da-sua-branch
-
-```
-
-
-
----
-
-### 3. Enviando a nova branch para o GitHub
-
-Depois de criar a branch e fazer seus `commits`, o GitHub ainda não saberá que ela existe. Para "empurrar" a branch nova pela primeira vez, use:
-
-```bash
-git push -u origin nome-da-sua-branch
-
-```
-
-O parâmetro `-u` serve para que o Git lembre que essa branch local está conectada àquela que você acabou de criar no servidor.
-
-### Resumo de boas práticas
-
-* **Nomes curtos e claros:** Use nomes como `feature-login`, `ajuste-layout` ou `fix-bug-calculo`.
-* **Evite espaços:** Use hífens (`-`) ou underscores (`_`).
-* **Verifique onde você está:** Digite `git branch` para ver a lista de ramos e identificar em qual você está (ele aparecerá com um asterisco `*`).
-
-Quer que eu te ajude a pensar em um padrão de nomes para as branches do seu projeto "Fabrica de monstros"?
+**Fábrica de Monstros - Desde 2025** 
