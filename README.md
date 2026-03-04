@@ -56,6 +56,6 @@ Para manter a excelência e a agilidade da Fábrica de Monstros, seguimos um pro
 3. Mantenha a Cadência: Utilize o `MODELO DE DAILY.md` para registrar seu progresso diário na sua pasta pessoal.
 4. Atualize o Índice: Ao criar novos projetos ou pastas raiz, lembre-se de atualizar o `MAPA_DE_CONHECIMENTO.md` para que todos possam encontrar a informação.
 5. Padronize Documentos: Sempre que precisar criar um novo documento administrativo ou template, utilize as bases disponíveis em `1 - GERAL INFORMATIVO E ANEXOS`.
-6. Submissão de Código/Docs: Utilize o modelo de Pull Request (PR) definido para garantir que a entrega está alinhada com os pilares de agilidade e qualidade.
+6. Submissão de Código/Docs: Utilize o `pull_request_template.md` definido para garantir que a entrega está alinhada com os pilares de agilidade e qualidade.
 
 **Fábrica de Monstros - Desde 2025** 
